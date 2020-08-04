@@ -1,0 +1,12 @@
+b = 10
+c = 1
+a = 4
+t00 = b > 7
+ifFalse t00 goto L0
+L0:
+t03 = 2 - c
+b=t03
+t04 = b < 5
+ifFalse t04 goto L1
+L1:
+EXIT
