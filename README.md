@@ -1,6 +1,6 @@
 # Rust-Compiler-with-C
 A basic Rust compiler built with C
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Introduction
 
 Rust is a multi-paradigm system programming language focused on safety, especially safe concurrency. This compiler takes handles the following constructs:  
