@@ -94,6 +94,6 @@ The Compiler can be further enhanced by adding
 - More efficient optimization techniques
 - Next use the algorithm for register allocation by making it a two pass assembler.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
